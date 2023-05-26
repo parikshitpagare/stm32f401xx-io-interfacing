@@ -13,3 +13,4 @@ This repository is a collection of code for interfacing ARM CortexM4 based STM32
 > List is updated when a new component is added
 
 - [Keypad](https://github.com/parikshitpagare/stm32f401xx-io-interfacing/tree/main/keypad)
+- [Led](https://github.com/parikshitpagare/stm32f401xx-io-interfacing/tree/main/led)
