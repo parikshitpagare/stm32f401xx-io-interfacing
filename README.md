@@ -15,3 +15,4 @@ This repository is a collection of code for interfacing ARM CortexM4 based STM32
 - [Keypad](https://github.com/parikshitpagare/stm32f401xx-io-interfacing/tree/main/keypad)
 - [Led](https://github.com/parikshitpagare/stm32f401xx-io-interfacing/tree/main/led)
 - [Push Button](https://github.com/parikshitpagare/stm32f401xx-io-interfacing/tree/main/push%20button)
+- [Relay](https://github.com/parikshitpagare/stm32f401xx-io-interfacing/tree/main/relay)
