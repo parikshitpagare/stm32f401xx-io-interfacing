@@ -24,12 +24,10 @@
 
 ## Demo
 
-https://user-images.githubusercontent.com/80714882/233237605-094abcad-efd9-451f-bbf1-99e27e745c47.mp4
+https://github.com/parikshitpagare/stm32f401xx-io-interfacing/assets/80714882/89e7b741-ad65-4ef7-9a6a-676b3bc66e91
 
 ## Circuit Diagram
 
 > **Note: No external pull up/pull down resistor is required. Internal pull down resistor is configured in the program.**
 
 <img src="https://user-images.githubusercontent.com/80714882/233237572-596e1537-fa49-4660-8337-cd8d9d2eab89.png"  width="65%" height="65%">
-
-
