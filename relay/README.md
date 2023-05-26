@@ -26,7 +26,7 @@
 
 ## Demo
 
-https://user-images.githubusercontent.com/80714882/233448533-e7eddc0f-3063-4cd6-afcc-7cbaea949409.mp4
+https://github.com/parikshitpagare/stm32f401xx-io-interfacing/assets/80714882/eb831df2-270a-4d48-883e-9d3b364c308d
 
 ## Circuit Diagram
 
