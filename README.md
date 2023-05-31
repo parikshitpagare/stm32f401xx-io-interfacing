@@ -1,4 +1,4 @@
-![Banner2](https://github.com/parikshitpagare/stm32f401xx-io-interfacing/assets/80714882/707aa6fe-aefd-488e-a3da-56c3bc9a02d3)
+![Banner](https://github.com/parikshitpagare/stm32f401xx-io-interfacing/assets/80714882/f710cef4-060e-4e09-bd3b-dcbe01c8cbaa)
 
 ## Interfacing STM32 F401xx Microcontroller with I/Os
 
